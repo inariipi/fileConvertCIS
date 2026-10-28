@@ -1,1 +1,1 @@
-# fileConvertCIS
+fileConvert is a locally run software that converts file types. Often, when downloading files, they may be an undesirable file type, but using this GUI, you can convert any file type to another. This uses already existing infrastructure like FFmpeg and built-in OS features while removing the need to use a command line. This removes the need to use insecure online web applications that do the same job, allowing it all to be secure on your own system.
